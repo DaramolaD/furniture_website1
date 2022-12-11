@@ -729,6 +729,10 @@ footer a img:hover {
     .sign_up .email .btn {
         padding-left: 50px;
     }
+    .testimonies .top_content {
+        flex-wrap: wrap-reverse;
+        row-gap: 50px;
+    }
     .testimonies .top_content .text h2 {
         font-size: 40px;
     }
